@@ -1,0 +1,4 @@
+[
+    {"nombre": "Pizza", "precio": 8.5, "cantidad": 10},
+    {"nombre": "Hamburguesa", "precio": 5.0, "cantidad": 15}
+]
