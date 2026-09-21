@@ -1,6 +1,6 @@
 README.md – Restaurante App (Semana 14)
 Introducción
-Este proyecto corresponde a la Semana 13 de la asignatura Programación Orientada a Objetos y tiene como objetivo iniciar la transición de la aplicación restaurante_app desde una versión basada en consola hacia una versión con interfaz gráfica de usuario utilizando Tkinter.
+Este proyecto corresponde a la Semana 14 de la asignatura Programación Orientada a Objetos y tiene como objetivo iniciar la transición de la aplicación restaurante_app desde una versión basada en consola hacia una versión con interfaz gráfica de usuario utilizando Tkinter.
 
 La finalidad de esta etapa no es trasladar todas las funcionalidades de la aplicación de consola, sino comprender cómo se integran la ventana principal, las vistas gráficas y los servicios. A partir de esta base, el sistema se ampliará progresivamente en las siguientes semanas.
 
